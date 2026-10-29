@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Antigravity GitHub Integration Test
+
+This section verifies the local Antigravity-to-GitHub workflow.
